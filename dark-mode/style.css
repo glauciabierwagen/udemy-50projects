@@ -17,16 +17,17 @@ html {
 }
 
 .container.dark {
-  background-color: #262626;
+  background-color: #333333;
 }
+
 
 .toggle {
   width: 6rem;
   height: 6rem;
   background-color: #eee8e1;
   position: absolute;
-  top: 7rem;
-  right: 7rem;
+  top: 8rem;
+  right: 8rem;
   display: grid;
   place-items: center;
   border-radius: 50%;
@@ -39,17 +40,17 @@ html {
 
 .toggle i {
   font-size: 4rem;
-  color: #777;
+  color: rgb(245, 240, 119);
 }
 
 .container.dark .toggle i {
-  color: #ddd;
+  color: rgb(154, 227, 246);
 }
 
 .card {
   width: 48rem;
   height: 25rem;
-  border-radius: 2rem;
+  border-radius: 2.5rem;
   position: relative;
   display: flex;
   box-shadow: 1rem 1rem 3rem rgba(0, 0, 0, 0.4);
@@ -99,15 +100,18 @@ html {
 }
 
 .card-text {
+  top: 0.2rem;
   font-size: 1.1rem;
 }
 
 .card-date {
+  top: 0.2rem;
   font-size: 1.6rem;
   font-weight: 600;
 }
 
 .card-holder {
+  top: 0.3rem;
   font-size: 1.5rem;
   font-weight: 600;
 }
@@ -133,5 +137,5 @@ html {
 .orange-circle {
   background-color: #ff5f00;
   margin-left: -2rem;
-  opacity: 0.7;
+  opacity: 0.7
 }
