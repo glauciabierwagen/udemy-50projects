@@ -11,4 +11,6 @@ Course 50 projects with HTLM CSS and JavaScript (Code Along)
 
 ### [3D Swing](https://github.com/glauciabierwagen/udemy-50projects/tree/main/3d-swing)
 
+### [3D Menu](https://github.com/glauciabierwagen/udemy-50projects/tree/main/3d-menu)
+
 
