@@ -19,9 +19,11 @@ let current = 1;
 const textStyle = () => {
   heading.style.color = colors[current - 1];
   heading.textContent = techs[current - 1];
-  btn.style.backgroundColor = colors[current - 1];
+  btn.style.backgroundColor = colors[current -1];
   btn.firstElementChild.textContent = techs[current - 1];
 };
+
+
 
 let interval = setInterval(() => {
   boxes.forEach((box) => {
@@ -51,3 +53,6 @@ boxes.forEach((box) => {
     clearInterval(interval);
   });
 });
+
+
+
