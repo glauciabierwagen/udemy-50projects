@@ -21,7 +21,7 @@
   background: linear-gradient(#853916, #6b3019);
   border: none;
   outline: none;
-  font-family: "Slabo 27px", serif;
+  font-family:"Slabo 27px", serif;
   font-size: 35px;
   text-transform: uppercase;
   letter-spacing: 4px;
@@ -31,7 +31,7 @@
   transform: rotateX(70deg) rotateZ(30deg);
   transform-style: preserve-3d;
   transition: transform 0.5s;
-}
+} 
 
 .btn::before {
   content: "";
@@ -56,6 +56,7 @@
   transform: rotateY(-90deg);
   transform-origin: right;
 }
+
 
 .btn:hover {
   transform: rotateX(30deg) rotateZ(0);
