@@ -1,4 +1,4 @@
-# udemy-50projects
+# udemy-50+projects
 Course 50 projects with HTLM CSS and JavaScript (Code Along)
 
 ## Index
