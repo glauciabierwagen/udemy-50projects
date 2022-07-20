@@ -17,6 +17,8 @@ Course 50 projects with HTLM CSS and JavaScript (Code Along)
 
 ### [3D Button](https://github.com/glauciabierwagen/udemy-50projects/tree/main/3d-button)
 
+### [Animated Landing Page](https://github.com/glauciabierwagen/udemy-50projects/tree/main/animated-landing-page)
+
 
 
 
