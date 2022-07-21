@@ -61,6 +61,7 @@
   background-color: #eee;
   color: #444;
   animation: animateBtn 1s 1.5s backwards; /*animation-name = animateBtn, animation-duration = 1s, animation-delay = 1.5s, animation fill-mode = backwards*/
+  
 }
 
 .btn-right {
