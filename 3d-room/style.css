@@ -64,7 +64,7 @@ html {
   height: 25rem;
   background-color: #fff;
   padding: 2rem 1rem 2rem 1rem;
-  color:#555;
+  color: #555;
   box-shadow: 0 0 0.1rem #aaa;
   font-family: "Dancing Script", cursive;
   font-size: 1.5rem;
@@ -100,7 +100,7 @@ html {
   transform-origin: top;
   border-radius: 1rem 5rem;
   border-left: 0.3rem solid rgb(38, 85, 87);
-  border-bottom: 0.3rem solid rgb(38, 85,87);
+  border-bottom: 0.3rem solid rgb(38, 85, 87);
 }
 
 .table-leg-3 {
