@@ -19,7 +19,7 @@ Course 50 projects with HTLM CSS and JavaScript (Code Along)
 
 ### [Animated Landing Page](https://github.com/glauciabierwagen/udemy-50projects/tree/main/animated-landing-page)
 
-### [3D Room](https://github.com/glauciabierwagen/udemy-50projects/tree/main/animated-landing-page)
+### [3D Room](https://github.com/glauciabierwagen/udemy-50projects/tree/main/3d-room)
 
 
 
