@@ -23,6 +23,8 @@ Course 50 projects with HTLM CSS and JavaScript (Code Along)
 
 ### [Responsive Gallery - Grid](https://github.com/glauciabierwagen/udemy-50projects/tree/main/responsive-gallery)
 
+### [Toggle Button - Grid](https://github.com/glauciabierwagen/udemy-50projects/tree/main/responsive-gallery)
+
 
 
 
