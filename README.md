@@ -21,6 +21,9 @@ Course 50 projects with HTLM CSS and JavaScript (Code Along)
 
 ### [3D Room](https://github.com/glauciabierwagen/udemy-50projects/tree/main/3d-room)
 
+### [Responsive Gallery - Grid](https://github.com/glauciabierwagen/udemy-50projects/tree/main/responsive-gallery)
+
+
 
 
 
