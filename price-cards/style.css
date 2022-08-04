@@ -21,8 +21,7 @@
 
 .card {
   width: 300px;
-  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.6)),
-    url(images/bg.jpg) center no-repeat;
+  background: linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .6)), url(images/bg.jpg) center no-repeat;
   background-size: cover;
   color: #fff;
   text-align: center;
@@ -41,7 +40,7 @@
 }
 
 .card-header h3 {
-  font-family: "Josefin Sans", sans-serif;
+  font-family: 'Josefin Sans', sans-serif;
   font-size: 30px;
   font-weight: 300;
   color: chocolate;
@@ -51,7 +50,7 @@
 }
 
 .card-header h1 {
-  font-family: "Josefin Sans", sans-serif;
+  font-family: 'Monserrat', sans-serif;
   font-size: 60px;
   font-weight: 300;
 }
@@ -68,9 +67,10 @@
   margin-bottom: 60px;
 }
 
+
 .card-body li {
   list-style: none;
-  font-family: "Josefin Sans", sans-serif;
+  font-family: 'Josefin Sans', sans-serif;
   font-size: 16px;
   font-weight: 300;
   margin: 15px 0;
@@ -96,8 +96,8 @@
   width: 120px;
   padding: 10px;
   background-color: chocolate;
-  color: #ddd;
-  font-family: "Montserrat", sans-serif;
+  color:#ddd;
+  font-family: 'Monserrat', sans-serif;
   font-size: 12px;
   font-weight: 600;
   text-transform: uppercase;
@@ -105,10 +105,9 @@
   border: 2px solid chocolate;
   border-radius: 50px;
   outline: none;
-  cursor: pointer;
 }
 
-@media (max-width: 1200px) {
+@media(max-width: 1200px) {
   .container {
     height: 100%;
   }
@@ -120,4 +119,5 @@
   .card {
     margin: 50px;
   }
+
 }
