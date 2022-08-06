@@ -7,7 +7,7 @@ Course 50 projects with HTLM CSS and JavaScript (Code Along)
 
 ### [Nike Product](https://github.com/glauciabierwagen/udemy-50projects/tree/main/nike-product) (CSS/HTML/JavaScript)
 
-### [Dark Mode](https://github.com/glauciabierwagen/udemy-50projects/tree/main/dark-modeurl)
+### [Dark Mode](https://github.com/glauciabierwagen/udemy-50projects/tree/main/dark-mode) (CSS/HTML/JavaScript)
 
 ### [3D Swing](https://github.com/glauciabierwagen/udemy-50projects/tree/main/3d-swing) (CSS/HTML)
 
