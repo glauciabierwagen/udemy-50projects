@@ -3,7 +3,7 @@ Course 50 projects with HTLM CSS and JavaScript (Code Along)
 
 ## Index
 
-### [Sign-up Form](https://github.com/glauciabierwagen/udemy-50projects/tree/main/signup-form/url) 
+### [Sign-up Form](https://github.com/glauciabierwagen/udemy-50projects/tree/main/signup-form) (CSS/HTML/JavaScript) 
 
 ### [Nike Product](https://github.com/glauciabierwagen/udemy-50projects/tree/main/nike-product) (CSS/HTML/JavaScript)
 
