@@ -23,9 +23,9 @@ Course 50 projects with HTLM CSS and JavaScript (Code Along)
 
 ### [Responsive Gallery - Grid](https://github.com/glauciabierwagen/udemy-50projects/tree/main/responsive-gallery) (CSS/HTML)
 
-### [Toggle Button](https://github.com/glauciabierwagen/udemy-50projects/tree/main/toggle_button)
+### [Toggle Button](https://github.com/glauciabierwagen/udemy-50projects/tree/main/toggle_button) (CSS/HTML)
 
-### [Pricing Cards](https://github.com/glauciabierwagen/udemy-50projects/tree/main/price-cards)
+### [Pricing Cards](https://github.com/glauciabierwagen/udemy-50projects/tree/main/price-cards) (CSS/HTML)
 
 ### [Bicycle](https://github.com/glauciabierwagen/udemy-50projects/tree/main/bicycle) (CSS/HTML)
     
