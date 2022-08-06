@@ -9,9 +9,9 @@ Course 50 projects with HTLM CSS and JavaScript (Code Along)
 
 ### [Dark Mode](https://github.com/glauciabierwagen/udemy-50projects/tree/main/dark-modeurl)
 
-### [3D Swing](https://github.com/glauciabierwagen/udemy-50projects/tree/main/3d-swing)
+### [3D Swing](https://github.com/glauciabierwagen/udemy-50projects/tree/main/3d-swing) (CSS/HTML)
 
-### [3D Menu](https://github.com/glauciabierwagen/udemy-50projects/tree/main/3d-menu)
+### [3D Menu](https://github.com/glauciabierwagen/udemy-50projects/tree/main/3d-menu) (CSS/HTML)
 
 ### [Landing Page](https://github.com/glauciabierwagen/udemy-50projects/tree/main/boxes-main)
 
