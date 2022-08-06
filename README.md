@@ -27,7 +27,7 @@ Course 50 projects with HTLM CSS and JavaScript (Code Along)
 
 ### [Pricing Cards](https://github.com/glauciabierwagen/udemy-50projects/tree/main/price-cards)
 
-### [Bicycle](https://github.com/glauciabierwagen/udemy-50projects/tree/main/bicycle)  CSS/HTML
+### [Bicycle](https://github.com/glauciabierwagen/udemy-50projects/tree/main/bicycle)  #### CSS/HTML
  
 
 
