@@ -5,7 +5,7 @@ Course 50 projects with HTLM CSS and JavaScript (Code Along)
 
 ### [Sign-up Form](https://github.com/glauciabierwagen/udemy-50projects/tree/main/signup-form) (CSS/HTML/JavaScript) 
 <p align="center">
-  <img src="https://github.com/glauciabierwagen/flexbox-test/blob/main/images/readmeimage.png" width="750" target=“_blank/>
+  <a href="https://github.com/glauciabierwagen/flexbox-test/blob/main/images/readmeimage.png" width="750" target=“_blank/>
 </p>
 
 
