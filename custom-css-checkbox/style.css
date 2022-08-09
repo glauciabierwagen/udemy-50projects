@@ -14,17 +14,10 @@
   display: block;
   width: 80px;
   height: 80px;
-  background-color: #ddd;
+  background-color: #08bb68;
   border-radius: 10px;
   position: relative;
   transition: background-color 0.4s;
-  /* This property is missed in the video */
-  overflow: hidden;
-  /* ******* */
-}
-
-#check:checked ~ .checkmark {
-  background-color: #08bb68;
 }
 
 .checkmark::after {
@@ -41,7 +34,15 @@
   transition: all 0.4s;
 }
 
+#check:checked ~ .checkmark {
+  background-color: #08bb68;  
+}
+
 #check:checked ~ .checkmark::after {
   opacity: 1;
   transform: translate(-50%, -50%) rotateZ(40deg) scale(1);
 }
+
+
+
+
