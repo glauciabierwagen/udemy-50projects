@@ -37,7 +37,7 @@ Course 50 projects with HTLM CSS and JavaScript (Code Along)
       <a href="https://github.com/glauciabierwagen/udemy-50projects/blob/main/hamburger-menu/images/readmeimage.png?raw=true" width="750" target=“_blank">image</a>            (CSS/HTML/JavaScript)
     </p>
     
- - ### [Custom CSS Checkbox](https://github.com/glauciabierwagen/udemy-50projects/tree/main/hamburger-menu)
+ - ### [Custom CSS Checkbox](https://github.com/glauciabierwagen/udemy-50projects/tree/main/custom-css-checkbox)
      <p>
       <a href="https://github.com/glauciabierwagen/udemy-50projects/blob/main/hamburger-menu/images/readmeimage.png?raw=true" width="750" target=“_blank">image</a>            (CSS/HTML/JavaScript)
     </p>  
