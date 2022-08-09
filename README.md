@@ -7,34 +7,34 @@ Course 50 projects with HTLM CSS and JavaScript (Code Along)
    
 - ### [Nike Product](https://github.com/glauciabierwagen/udemy-50projects/tree/main/nike-product) / <a href="https://github.com/glauciabierwagen/udemy-50projects/blob/main/nike-product/images/readmeimage.png" width="750" target=“_blank>image</a> (CSS/HTML/JavaScript)
 
-- ### [Dark Mode](https://github.com/glauciabierwagen/udemy-50projects/tree/main/dark-mode) (CSS/HTML/JavaScript)
+- ### [Dark Mode](https://github.com/glauciabierwagen/udemy-50projects/tree/main/dark-mode) / <a href="https://github.com/glauciabierwagen/udemy-50projects/blob/main/nike-product/images/readmeimage.png" width="750" target=“_blank>image</a> (CSS/HTML/JavaScript)
 
-- ### [3D Swing](https://github.com/glauciabierwagen/udemy-50projects/tree/main/3d-swing) (CSS/HTML)
+- ### [3D Swing](https://github.com/glauciabierwagen/udemy-50projects/tree/main/3d-swing) / <a href="https://github.com/glauciabierwagen/udemy-50projects/blob/main/nike-product/images/readmeimage.png" width="750" target=“_blank>image</a> (CSS/HTML)
 
-- ### [3D Menu](https://github.com/glauciabierwagen/udemy-50projects/tree/main/3d-menu) (CSS/HTML/JavaScript)
+- ### [3D Menu](https://github.com/glauciabierwagen/udemy-50projects/tree/main/3d-menu) / <a href="https://github.com/glauciabierwagen/udemy-50projects/blob/main/nike-product/images/readmeimage.png" width="750" target=“_blank>image</a> (CSS/HTML/JavaScript)
 
-- ### [Landing Page](https://github.com/glauciabierwagen/udemy-50projects/tree/main/boxes-main) (CSS/HTML/JavaScript) 
+- ### [Landing Page](https://github.com/glauciabierwagen/udemy-50projects/tree/main/boxes-main) / <a href="https://github.com/glauciabierwagen/udemy-50projects/blob/main/nike-product/images/readmeimage.png" width="750" target=“_blank>image</a> (CSS/HTML/JavaScript) 
 
-- ### [3D Button](https://github.com/glauciabierwagen/udemy-50projects/tree/main/3d-button) (CSS/HTML)
+- ### [3D Button](https://github.com/glauciabierwagen/udemy-50projects/tree/main/3d-button) / <a href="https://github.com/glauciabierwagen/udemy-50projects/blob/main/nike-product/images/readmeimage.png" width="750" target=“_blank>image</a> (CSS/HTML)
 
-- ### [Animated Landing Page](https://github.com/glauciabierwagen/udemy-50projects/tree/main/animated-landing-page) (CSS/HTML)
+- ### [Animated Landing Page](https://github.com/glauciabierwagen/udemy-50projects/tree/main/animated-landing-page) / <a href="https://github.com/glauciabierwagen/udemy-50projects/blob/main/nike-product/images/readmeimage.png" width="750" target=“_blank>image</a> (CSS/HTML)
 
-- ### [3D Room](https://github.com/glauciabierwagen/udemy-50projects/tree/main/3d-room) (CSS/HTML/JavaScript)
+- ### [3D Room](https://github.com/glauciabierwagen/udemy-50projects/tree/main/3d-room)  / <a href="https://github.com/glauciabierwagen/udemy-50projects/blob/main/nike-product/images/readmeimage.png" width="750" target=“_blank>image</a> (CSS/HTML/JavaScript) 
 
-- ### [Responsive Gallery - Grid](https://github.com/glauciabierwagen/udemy-50projects/tree/main/responsive-gallery) (CSS/HTML)
+- ### [Responsive Gallery - Grid](https://github.com/glauciabierwagen/udemy-50projects/tree/main/responsive-gallery)  / <a href="https://github.com/glauciabierwagen/udemy-50projects/blob/main/nike-product/images/readmeimage.png" width="750" target=“_blank>image</a> (CSS/HTML) 
 
-- ### [Toggle Button](https://github.com/glauciabierwagen/udemy-50projects/tree/main/toggle_button) (CSS/HTML)
+- ### [Toggle Button](https://github.com/glauciabierwagen/udemy-50projects/tree/main/toggle_button) / <a href="https://github.com/glauciabierwagen/udemy-50projects/blob/main/nike-product/images/readmeimage.png" width="750" target=“_blank>image</a> (CSS/HTML) 
 
-- ### [Pricing Cards](https://github.com/glauciabierwagen/udemy-50projects/tree/main/price-cards) (CSS/HTML)
+- ### [Pricing Cards](https://github.com/glauciabierwagen/udemy-50projects/tree/main/price-cards) / <a href="https://github.com/glauciabierwagen/udemy-50projects/blob/main/nike-product/images/readmeimage.png" width="750" target=“_blank>image</a> (CSS/HTML) 
 
-- ### [Bicycle](https://github.com/glauciabierwagen/udemy-50projects/tree/main/bicycle) (CSS/HTML)
+- ### [Bicycle](https://github.com/glauciabierwagen/udemy-50projects/tree/main/bicycle) / <a href="https://github.com/glauciabierwagen/udemy-50projects/blob/main/nike-product/images/readmeimage.png" width="750" target=“_blank>image</a> (CSS/HTML) 
 
-- ### [Hamburger Menu](https://github.com/glauciabierwagen/udemy-50projects/tree/main/hamburger-menu)
+- ### [Hamburger Menu](https://github.com/glauciabierwagen/udemy-50projects/tree/main/hamburger-menu) / <a href="https://github.com/glauciabierwagen/udemy-50projects/blob/main/hamburger-menu/images/readmeimage.png?raw=true" width="750" target=“_blank">image</a> (CSS/HTML/JavaScript)
      <p>
       <a href="https://github.com/glauciabierwagen/udemy-50projects/blob/main/hamburger-menu/images/readmeimage.png?raw=true" width="750" target=“_blank">image</a>            (CSS/HTML/JavaScript)
     </p>
     
- - ### [Custom CSS Checkbox](https://github.com/glauciabierwagen/udemy-50projects/tree/main/custom-css-checkbox)
+ - ### [Custom CSS Checkbox](https://github.com/glauciabierwagen/udemy-50projects/tree/main/custom-css-checkbox) / <a href="https://github.com/glauciabierwagen/udemy-50projects/blob/main/custom-css-checkbox/readmeimage.png" width="750" target=“_blank">image</a> (CSS/HTML)
      <p>
       <a href="https://github.com/glauciabierwagen/udemy-50projects/blob/main/custom-css-checkbox/readmeimage.png" width="750" target=“_blank">image</a>            (CSS/HTML)
     </p>  
