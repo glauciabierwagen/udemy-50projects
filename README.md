@@ -7,10 +7,10 @@ Course 50 projects with HTLM CSS and JavaScript (Code Along)
    
 - ### [Nike Product](https://github.com/glauciabierwagen/udemy-50projects/tree/main/nike-product) / <a href="https://github.com/glauciabierwagen/udemy-50projects/blob/main/nike-product/images/readmeimage.png" width="750" target=“_blank>image</a> (CSS/HTML/JavaScript)
 
-- ### [Dark Mode](https://github.com/glauciabierwagen/udemy-50projects/tree/main/dark-mode) / <a href="https://github.com/glauciabierwagen/udemy-50projects/blob/main/dark-mode/images/readmeimage.png" width="650" target=“_blank>image</a> (CSS/HTML/JavaScript)
+- ### [Dark Mode](https://github.com/glauciabierwagen/udemy-50projects/tree/main/dark-mode) / <a href="https://github.com/glauciabierwagen/udemy-50projects/blob/main/dark-mode/images/readmeimage.png" width="650" height="500" target=“_blank>image</a> (CSS/HTML/JavaScript)
 
 - ### [3D Swing](https://github.com/glauciabierwagen/udemy-50projects/tree/main/3d-swing) / <a href="https://github.com/glauciabierwagen/udemy-50projects/blob/main/nike-product/images/readmeimage.png" width="750" target=“_blank>image</a> (CSS/HTML)
-
+ 
 - ### [3D Menu](https://github.com/glauciabierwagen/udemy-50projects/tree/main/3d-menu) / <a href="https://github.com/glauciabierwagen/udemy-50projects/blob/main/nike-product/images/readmeimage.png" width="750" target=“_blank>image</a> (CSS/HTML/JavaScript)
 
 - ### [Landing Page](https://github.com/glauciabierwagen/udemy-50projects/tree/main/boxes-main) / <a href="https://github.com/glauciabierwagen/udemy-50projects/blob/main/nike-product/images/readmeimage.png" width="750" target=“_blank>image</a> (CSS/HTML/JavaScript) 
