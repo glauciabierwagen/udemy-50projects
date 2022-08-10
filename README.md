@@ -19,7 +19,7 @@ Course 50 projects with HTLM CSS and JavaScript (Code Along)
 
 - ### [Animated Landing Page](https://github.com/glauciabierwagen/udemy-50projects/tree/main/animated-landing-page) / <a href= "https://github.com/glauciabierwagen/udemy-50projects/blob/main/animated-landing-page/images/readmeimage.png?raw=true" width="750" target=“_blank>image</a> (CSS/HTML)
 
-- ### [3D Room](https://github.com/glauciabierwagen/udemy-50projects/tree/main/3d-room)  / <a href="https://github.com/glauciabierwagen/udemy-50projects/blob/main/nike-product/images/readmeimage.png" width="750" target=“_blank>image</a> (CSS/HTML/JavaScript) 
+- ### [3D Room](https://github.com/glauciabierwagen/udemy-50projects/tree/main/3d-room)  / <a href="https://github.com/glauciabierwagen/udemy-50projects/blob/main/3d-room/readmeimage.png?raw=true" target=“_blank>image</a> (CSS/HTML/JavaScript) 
 
 - ### [Responsive Gallery - Grid](https://github.com/glauciabierwagen/udemy-50projects/tree/main/responsive-gallery)  / <a href="https://github.com/glauciabierwagen/udemy-50projects/blob/main/nike-product/images/readmeimage.png" width="750" target=“_blank>image</a> (CSS/HTML) 
 
