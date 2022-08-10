@@ -27,7 +27,7 @@ Course 50 projects with HTLM CSS and JavaScript (Code Along)
 
 - ### [Pricing Cards](https://github.com/glauciabierwagen/udemy-50projects/tree/main/price-cards) / <a href="https://github.com/glauciabierwagen/udemy-50projects/blob/main/price-cards/images/readmeimage.png?raw=true" width="750" target=“_blank>image</a> (CSS/HTML) 
 
-- ### [Bicycle](https://github.com/glauciabierwagen/udemy-50projects/tree/main/bicycle) / <a href="https://github.com/glauciabierwagen/udemy-50projects/blob/main/nike-product/images/readmeimage.png" width="750" target=“_blank>image</a> (CSS/HTML) 
+- ### [Bicycle](https://github.com/glauciabierwagen/udemy-50projects/tree/main/bicycle) / <a href="https://github.com/glauciabierwagen/udemy-50projects/blob/main/bicycle/readmeimage.png" width="750" target=“_blank>image</a> (CSS/HTML) 
 
 - ### [Hamburger Menu](https://github.com/glauciabierwagen/udemy-50projects/tree/main/hamburger-menu) / <a href="https://github.com/glauciabierwagen/udemy-50projects/blob/main/hamburger-menu/images/readmeimage.png?raw=true" width="750" target=“_blank>image</a> (CSS/HTML/JavaScript)
         
