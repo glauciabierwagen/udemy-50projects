@@ -21,7 +21,7 @@ Course 50 projects with HTLM CSS and JavaScript (Code Along)
 
 - ### [3D Room](https://github.com/glauciabierwagen/udemy-50projects/tree/main/3d-room)  / <a href="https://github.com/glauciabierwagen/udemy-50projects/blob/main/3d-room/readmeimage.png?raw=true" target=“_blank>image</a> (CSS/HTML/JavaScript) 
 
-- ### [Responsive Gallery - Grid](https://github.com/glauciabierwagen/udemy-50projects/tree/main/responsive-gallery)  / <a href="https://github.com/glauciabierwagen/udemy-50projects/blob/main/nike-product/images/readmeimage.png" width="750" target=“_blank>image</a> (CSS/HTML) 
+- ### [Responsive Gallery - Grid](https://github.com/glauciabierwagen/udemy-50projects/tree/main/responsive-gallery)  / <a href="https://github.com/glauciabierwagen/udemy-50projects/blob/main/responsive-gallery/images/readmeimage.png" width="750" target=“_blank>image</a> (CSS/HTML) 
 
 - ### [Toggle Button](https://github.com/glauciabierwagen/udemy-50projects/tree/main/toggle_button) / <a href="https://github.com/glauciabierwagen/udemy-50projects/blob/main/nike-product/images/readmeimage.png" width="750" target=“_blank>image</a> (CSS/HTML) 
 
