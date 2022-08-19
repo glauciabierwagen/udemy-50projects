@@ -35,7 +35,9 @@ Course 50 projects with HTLM CSS and JavaScript (Code Along)
  
  -  ### [Card 3D Effects](https://github.com/glauciabierwagen/udemy-50projects/tree/main/card-3d-effects) / <a href="https://user-images.githubusercontent.com/98116061/183831127-4eee239c-07a7-4785-99f0-5497d8070ac8.png" width="750" target=“_blank>image</a> (CSS/HTML) 
  
-  -  ### [Helicopter](https://github.com/glauciabierwagen/udemy-50projects/tree/main/helicopter) / <a href="https://github.com/glauciabierwagen/udemy-50projects/blob/main/helicopter/images/readmeimage.png?raw=true" target=“_blank>image</a> (CSS/HTML) 
+ -  ### [Helicopter](https://github.com/glauciabierwagen/udemy-50projects/tree/main/helicopter) / <a href="https://github.com/glauciabierwagen/udemy-50projects/blob/main/helicopter/images/readmeimage.png?raw=true" target=“_blank>image</a> (CSS/HTML) 
+
+-  ### [Business Card](https://github.com/glauciabierwagen/udemy-50projects/tree/main/business-card) / <a href="https://github.com/glauciabierwagen/udemy-50projects/blob/main/helicopter/images/readmeimage.png?raw=true" target=“_blank>image</a> (CSS/HTML) 
  
 
 
