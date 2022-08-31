@@ -39,7 +39,7 @@ Course 50 projects with HTLM CSS and JavaScript (Code Along)
 
 -  ### [Business Card](https://github.com/glauciabierwagen/udemy-50projects/tree/main/business-card) / <a href="https://github.com/glauciabierwagen/udemy-50projects/blob/main/business-card/images/readmeimage.png?raw=true" target=“_blank>image</a> (CSS/HTML) 
 
--  ### [Button Radio Custom](https://github.com/glauciabierwagen/udemy-50projects/tree/main/button-radio-custom) / <a href="https://github.com/glauciabierwagen/udemy-50projects/blob/main/business-card/images/readmeimage.png?raw=true" target=“_blank>image</a> (CSS/HTML) 
+-  ### [Button Radio Custom](https://github.com/glauciabierwagen/udemy-50projects/tree/main/button-radio-custom) / <a href="https://github.com/glauciabierwagen/udemy-50projects/blob/main/button-radio-custom/readmeimage.png" target=“_blank>image</a> (CSS/HTML) 
 
 
 
