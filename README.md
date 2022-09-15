@@ -43,10 +43,8 @@ Course 50 projects with HTLM CSS and JavaScript (Code Along)
 
 -  ### [Slideshow](https://github.com/glauciabierwagen/udemy-50projects/tree/main/slideshow) / <a href="https://github.com/glauciabierwagen/udemy-50projects/blob/main/slideshow/images/readmeimage.png" target="_blank">image</a> (CSS/HTML) 
 
- - ### [Atom](https://github.com/glauciabierwagen/udemy-50projects/tree/main/atom) / <a href="https://github.com/glauciabierwagen/udemy-50projects/blob/main/atom/readmeimage.png?raw=true“>image</a> (CSS/HTML) 
+ - ### [Atom](https://github.com/glauciabierwagen/udemy-50projects/tree/main/atom) /  <a href="https://github.com/glauciabierwagen/udemy-50projects/blob/main/atom/readmeimage.png?raw=true" target="_blank">image</a> (CSS/HTML) 
 -
-
-
 
 
 
