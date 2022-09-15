@@ -37,11 +37,11 @@ Course 50 projects with HTLM CSS and JavaScript (Code Along)
  
  -  ### [Helicopter](https://github.com/glauciabierwagen/udemy-50projects/tree/main/helicopter) / <a href="https://github.com/glauciabierwagen/udemy-50projects/blob/main/helicopter/images/readmeimage.png?raw=true" target=“_blank">image</a> (CSS/HTML) 
 
--  ### [Business Card](https://github.com/glauciabierwagen/udemy-50projects/tree/main/business-card) / <a href="https://github.com/glauciabierwagen/udemy-50projects/blob/main/business-card/images/readmeimage.png?raw=true" target=“_blank">image</a> (CSS/HTML) 
+-  ### [Business Card](https://github.com/glauciabierwagen/udemy-50projects/tree/main/business-card) / <a href="https://github.com/glauciabierwagen/udemy-50projects/blob/main/business-card/images/readmeimage.png?raw=true" target="_blank">image</a> (CSS/HTML) 
 
--  ### [Button Radio Custom](https://github.com/glauciabierwagen/udemy-50projects/tree/main/button-radio-custom) / <a href="https://github.com/glauciabierwagen/udemy-50projects/blob/main/button-radio-custom/readmeimage.png" target=“_blank">image</a> (CSS/HTML) 
+-  ### [Button Radio Custom](https://github.com/glauciabierwagen/udemy-50projects/tree/main/button-radio-custom) / <a href="https://github.com/glauciabierwagen/udemy-50projects/blob/main/button-radio-custom/readmeimage.png" target="_blank">image</a> (CSS/HTML) 
 
--  ### [Slideshow](https://github.com/glauciabierwagen/udemy-50projects/tree/main/slideshow) / <a href="https://github.com/glauciabierwagen/udemy-50projects/blob/main/slideshow/images/readmeimage.png" target=“_blank">image</a> (CSS/HTML) 
+-  ### [Slideshow](https://github.com/glauciabierwagen/udemy-50projects/tree/main/slideshow) / <a href="https://github.com/glauciabierwagen/udemy-50projects/blob/main/slideshow/images/readmeimage.png" target="_blank">image</a> (CSS/HTML) 
 
  - ### [Atom](https://github.com/glauciabierwagen/udemy-50projects/tree/main/atom) / <a href="https://github.com/glauciabierwagen/udemy-50projects/blob/main/atom/readmeimage.png“ target="_blank">image</a> (CSS/HTML) 
 
