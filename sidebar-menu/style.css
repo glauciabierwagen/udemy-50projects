@@ -8,7 +8,7 @@
 }
 
 html {
-  font-size: 62.5%;
+  font-size: 62.5%; /* 1 rem is equal 10px*/
 }
 
 :root {
