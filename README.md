@@ -47,7 +47,7 @@ Course 50 projects with HTLM CSS and JavaScript (Code Along)
  
 - ### [Hamburger Menu](https://github.com/glauciabierwagen/udemy-50projects/tree/main/hamburger-menu2) /  <a href="https://github.com/glauciabierwagen/udemy-50projects/blob/main/hamburger-menu2/images/readmeimage.png?raw=true" target="_blank">image</a> (CSS/HTML/JavaScript) 
 
-- ### [Sidebar Menu](https://github.com/glauciabierwagen/udemy-50projects/tree/main/sidebar-menu) /  <a href="https://github.com/glauciabierwagen/udemy-50projects/blob/main/hamburger-menu2/images/readmeimage.png?raw=true" target="_blank">image</a> (CSS/HTML/JavaScript) 
+- ### [Sidebar Menu](https://github.com/glauciabierwagen/udemy-50projects/tree/main/sidebar-menu) /  <a href="https://github.com/glauciabierwagen/udemy-50projects/blob/main/sidebar-menu/images/readmeimage.png?raw=true" target="_blank">image</a> (CSS/HTML/JavaScript) 
 
 
 
