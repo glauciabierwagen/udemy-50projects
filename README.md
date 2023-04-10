@@ -49,7 +49,7 @@ Course 50 projects with HTLM CSS and JavaScript (Code Along)
 
 - ### [Sidebar Menu](https://github.com/glauciabierwagen/udemy-50projects/tree/main/sidebar-menu) /  <a href="https://github.com/glauciabierwagen/udemy-50projects/blob/main/sidebar-menu/images/readmeimage.png?raw=true" target="_blank">image</a> (CSS/HTML/JavaScript) 
 
-- ### [Flower Main](https://github.com/glauciabierwagen/udemy-50projects/tree/main/sidebar-menu) /  <a href="https://github.com/glauciabierwagen/udemy-50projects/blob/main/sidebar-menu/images/readmeimage.png?raw=true" target="_blank">image</a> (CSS/HTML/JavaScript) 
+- ### [Flower Main](https://github.com/glauciabierwagen/udemy-50projects/tree/main/flower-main) /  <a href="https://github.com/glauciabierwagen/udemy-50projects/blob/main/sidebar-menu/images/readmeimage.png?raw=true" target="_blank">image</a> (CSS/HTML) 
 
 
 
