@@ -19,7 +19,9 @@
   background-position: center top;
   animation: landingAnim 4s forwards;
 }
-
+/*polygon points are in percentage, so they are responsive to the screen size
+https://bennettfeely.com/clippy/
+7 points in the shape*/
 @keyframes landingAnim {
   0%,
   50% {
@@ -49,6 +51,7 @@
   left: 0;
   z-index: 10;
   transform-origin: top;
+  /*forwards keeps the final state of the animation*/
   animation: bgAnim 2s forwards;
 }
 
