@@ -6,10 +6,16 @@
   font-family: "Concert One", cursive;
 }
 
+/*Rem is a relative unit, it is relative to the root element (html) 
+font-size. So 1rem = 10px, 2rem = 20px, etc. This makes it easier to scale the entire design by
+ changing the font-size of the root element.*/
 html {
   font-size: 62.5%;
 }
-
+/*The container class is used to center the clock
+ on the page. It uses flexbox to align the items
+  in the center both horizontally and vertically. 
+  The width is set to 100% and the height is set to 100vh (viewport height) to take up the entire screen.*/
 .container {
   width: 100%;
   height: 100vh;
@@ -27,7 +33,8 @@ html {
   box-shadow: 0.5rem 0.5rem 1rem #555, -0.5rem -0.5rem 1rem #555;
   position: relative;
 }
-
+/*inherit means that the width and height of the numbers
+ class will be the same as the clock class.*/
 .numbers {
   width: inherit;
   height: inherit;
@@ -38,6 +45,9 @@ html {
   position: absolute;
   font-size: 2.5rem;
   color: #fff;
+  /*The text-shadow property adds a shadow to the text. 
+  The first value is the horizontal offset, the second value is the vertical offset, the third value is the blur radius,
+   and the fourth value is the color of the shadow.*/
   text-shadow: 0.2rem 0.2rem 0.2rem #222;
 }
 
@@ -76,6 +86,8 @@ html {
   align-items: center;
 }
 
+/*The ::before pseudo-element is used to create a circle in the center of the clock.
+The content property is set to an empty string, and the width and height are set to 2.5rem.*/
 .arrows::before {
   content: "";
   width: 2.5rem;
@@ -83,6 +95,7 @@ html {
   background-color: #fff;
   border-radius: 50%;
   box-shadow: 0.2rem 0.2rem 0.5rem #777;
+  /* z-index place the circle in fornt of the arrows */
   z-index: 10;
 }
 
