@@ -51,7 +51,10 @@ Course 50 projects with HTLM CSS and JavaScript (Code Along)
 
 - ### [Flower Main](https://github.com/glauciabierwagen/udemy-50projects/tree/main/flower-main) /  <a href="https://github.com/glauciabierwagen/udemy-50projects/blob/main/flower-main/readmeimage.png?raw=true" target="_blank">image</a> (CSS/HTML)
   
-- ### [Rounded Navbar](https://github.com/glauciabierwagen/udemy-50projects/tree/main/rounded-navbar) /  <a href="https://github.com/glauciabierwagen/udemy-50projects/blob/main/rounded-navbar/image.png?raw=true" target="_blank">image</a> (CSS/HTML/JavaScript) 
+- ### [Rounded Navbar](https://github.com/glauciabierwagen/udemy-50projects/tree/main/rounded-navbar) /  <a href="https://github.com/glauciabierwagen/udemy-50projects/blob/main/rounded-navbar/image.png?raw=true" target="_blank">image</a> (CSS/HTML/JavaScript)
+  
+- ### [Jumping Square](https://github.com/glauciabierwagen/udemy-50projects/tree/main/jumping-squaren) /  <a href="https://github.com/glauciabierwagen/udemy-50projects/blob/main/jumping-squaren/readmeimage.png?raw=true" target="_blank">image</a> (CSS/HTML/JavaScript)
+
 
 
 
