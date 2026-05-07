@@ -1,68 +1,113 @@
-# udemy-50+projects
-Course 50 projects with HTLM CSS and JavaScript (Code Along)
+# Udemy 50+ Projects
+
+A collection of projects built with **HTML, CSS and JavaScript** during a code-along course.
 
 ## Index
 
-- ### [Sign-up Form](https://github.com/glauciabierwagen/udemy-50projects/tree/main/signup-form) /  <a href="https://github.com/glauciabierwagen/udemy-50projects/blob/main/signup-form/readmeimage.png?" width="750" target=“_blank>image</a> (CSS/HTML/JavaScript)
-   
-- ### [Nike Product](https://github.com/glauciabierwagen/udemy-50projects/tree/main/nike-product) / <a href="https://github.com/glauciabierwagen/udemy-50projects/blob/main/nike-product/images/readmeimage.png" width="750" target=“_blank>image</a> (CSS/HTML/JavaScript)
+### Sign-up Form
+[Project folder](https://github.com/glauciabierwagen/udemy-50projects/tree/main/signup-form)  
+![Sign-up Form](signup-form/readmeimage.png)
 
-- ### [Dark Mode](https://github.com/glauciabierwagen/udemy-50projects/tree/main/dark-mode) / <a href="https://github.com/glauciabierwagen/udemy-50projects/blob/main/dark-mode/images/readmeimage.png" width="550" height="500" target=“_blank>image</a> (CSS/HTML/JavaScript)
+### Nike Product
+[Project folder](https://github.com/glauciabierwagen/udemy-50projects/tree/main/nike-product)  
+![Nike Product](nike-product/images/readmeimage.png)
 
-- ### [3D Swing](https://github.com/glauciabierwagen/udemy-50projects/tree/main/3d-swing) / <a href="https://github.com/glauciabierwagen/udemy-50projects/blob/main/3d-swing/readmeimage.png?raw=true" width="750" target=“_blank>image</a> (CSS/HTML)
- 
-- ### [3D Menu](https://github.com/glauciabierwagen/udemy-50projects/tree/main/3d-menu) / <a href="https://github.com/glauciabierwagen/udemy-50projects/blob/main/3d-menu/readmeimage.png?raw=true" width="550px" target=“_blank>image</a> (CSS/HTML/JavaScript)
+### Dark Mode
+[Project folder](https://github.com/glauciabierwagen/udemy-50projects/tree/main/dark-mode)  
+![Dark Mode](dark-mode/images/readmeimage.png)
 
-- ### [Landing Page](https://github.com/glauciabierwagen/udemy-50projects/tree/main/landing-page-form) / <a href="https://github.com/glauciabierwagen/udemy-50projects/blob/main/landing-page-form/images/readmeimage.png?raw=true" width="750" target=“_blank>image</a> (CSS/HTML/JavaScript) 
+### 3D Swing
+[Project folder](https://github.com/glauciabierwagen/udemy-50projects/tree/main/3d-swing)  
+![3D Swing](3d-swing/readmeimage.png)
 
-- ### [3D Button](https://github.com/glauciabierwagen/udemy-50projects/tree/main/3d-button) / <a href="https://github.com/glauciabierwagen/udemy-50projects/blob/main/3d-button/images/readmeimage.png?raw=true" width="750" target=“_blank>image</a> (CSS/HTML)
+### 3D Menu
+[Project folder](https://github.com/glauciabierwagen/udemy-50projects/tree/main/3d-menu)  
+![3D Menu](3d-menu/readmeimage.png)
 
-- ### [Animated Landing Page](https://github.com/glauciabierwagen/udemy-50projects/tree/main/animated-landing-page) / <a href= "https://github.com/glauciabierwagen/udemy-50projects/blob/main/animated-landing-page/images/readmeimage.png?raw=true" width="750" target=“_blank>image</a> (CSS/HTML)
+### Landing Page
+[Project folder](https://github.com/glauciabierwagen/udemy-50projects/tree/main/landing-page-form)  
+![Landing Page](landing-page-form/images/readmeimage.png)
 
-- ### [3D Room](https://github.com/glauciabierwagen/udemy-50projects/tree/main/3d-room)  / <a href="https://github.com/glauciabierwagen/udemy-50projects/blob/main/3d-room/readmeimage.png?raw=true" target=“_blank>image</a> (CSS/HTML/JavaScript) 
+### 3D Button
+[Project folder](https://github.com/glauciabierwagen/udemy-50projects/tree/main/3d-button)  
+![3D Button](3d-button/images/readmeimage.png)
 
-- ### [Responsive Gallery - Grid](https://github.com/glauciabierwagen/udemy-50projects/tree/main/responsive-gallery)  / <a href="https://github.com/glauciabierwagen/udemy-50projects/blob/main/responsive-gallery/images/readmeimage.png" width="750" target=“_blank>image</a> (CSS/HTML) 
+### Animated Landing Page
+[Project folder](https://github.com/glauciabierwagen/udemy-50projects/tree/main/animated-landing-page)  
+![Animated Landing Page](animated-landing-page/images/readmeimage.png)
 
-- ### [Toggle Button](https://github.com/glauciabierwagen/udemy-50projects/tree/main/toggle_button) / <a href="https://github.com/glauciabierwagen/udemy-50projects/blob/main/toggle_button/readmeimage.png?raw=true" width="750" target=“_blank>image</a> (CSS/HTML) 
+### 3D Room
+[Project folder](https://github.com/glauciabierwagen/udemy-50projects/tree/main/3d-room)  
+![3D Room](3d-room/readmeimage.png)
 
-- ### [Pricing Cards](https://github.com/glauciabierwagen/udemy-50projects/tree/main/price-cards) / <a href="https://github.com/glauciabierwagen/udemy-50projects/blob/main/price-cards/images/readmeimage.png?raw=true" width="750" target=“_blank>image</a> (CSS/HTML) 
+### Responsive Gallery - Grid
+[Project folder](https://github.com/glauciabierwagen/udemy-50projects/tree/main/responsive-gallery)  
+![Responsive Gallery - Grid](responsive-gallery/images/readmeimage.png)
 
-- ### [Bicycle](https://github.com/glauciabierwagen/udemy-50projects/tree/main/bicycle) / <a href="https://github.com/glauciabierwagen/udemy-50projects/blob/main/bicycle/readmeimage.png" width="750" target=“_blank>image</a> (CSS/HTML) 
+### Toggle Button
+[Project folder](https://github.com/glauciabierwagen/udemy-50projects/tree/main/toggle_button)  
+![Toggle Button](toggle_button/readmeimage.png)
 
-- ### [Hamburger Menu](https://github.com/glauciabierwagen/udemy-50projects/tree/main/hamburger-menu) / <a href="https://github.com/glauciabierwagen/udemy-50projects/blob/main/hamburger-menu/images/readmeimage.png?raw=true" width="750" target="_blank">image</a> (CSS/HTML/JavaScript)
-        
- - ### [Custom CSS Checkbox](https://github.com/glauciabierwagen/udemy-50projects/tree/main/custom-css-checkbox) / <a href="https://github.com/glauciabierwagen/udemy-50projects/blob/main/custom-css-checkbox/readmeimage.png" width="750" target="_blank">image</a> (CSS/HTML) 
- 
- -  ### [Card 3D Effects](https://github.com/glauciabierwagen/udemy-50projects/tree/main/card-3d-effects) / <a href="https://user-images.githubusercontent.com/98116061/183831127-4eee239c-07a7-4785-99f0-5497d8070ac8.png" width="750" target="_blank">image</a> (CSS/HTML) 
- 
- -  ### [Helicopter](https://github.com/glauciabierwagen/udemy-50projects/tree/main/helicopter) / <a href="https://github.com/glauciabierwagen/udemy-50projects/blob/main/helicopter/images/readmeimage.png?raw=true">image</a> (CSS/HTML) 
+### Pricing Cards
+[Project folder](https://github.com/glauciabierwagen/udemy-50projects/tree/main/price-cards)  
+![Pricing Cards](price-cards/images/readmeimage.png)
 
--  ### [Business Card](https://github.com/glauciabierwagen/udemy-50projects/tree/main/business-card) / <a href="https://github.com/glauciabierwagen/udemy-50projects/blob/main/business-card/images/readmeimage.png?raw=true" target="_blank">image</a> (CSS/HTML) 
+### Bicycle
+[Project folder](https://github.com/glauciabierwagen/udemy-50projects/tree/main/bicycle)  
+![Bicycle](bicycle/readmeimage.png)
 
--  ### [Button Radio Custom](https://github.com/glauciabierwagen/udemy-50projects/tree/main/button-radio-custom) / <a href="https://github.com/glauciabierwagen/udemy-50projects/blob/main/button-radio-custom/readmeimage.png" target="_blank">image</a> (CSS/HTML) 
+### Hamburger Menu
+[Project folder](https://github.com/glauciabierwagen/udemy-50projects/tree/main/hamburger-menu)  
+![Hamburger Menu](hamburger-menu/images/readmeimage.png)
 
--  ### [Slideshow](https://github.com/glauciabierwagen/udemy-50projects/tree/main/slideshow) / <a href="https://github.com/glauciabierwagen/udemy-50projects/blob/main/slideshow/images/readmeimage.png" target="_blank">image</a> (CSS/HTML) 
+### Custom CSS Checkbox
+[Project folder](https://github.com/glauciabierwagen/udemy-50projects/tree/main/custom-css-checkbox)  
+![Custom CSS Checkbox](custom-css-checkbox/readmeimage.png)
 
- - ### [Atom](https://github.com/glauciabierwagen/udemy-50projects/tree/main/atom) /  <a href="https://github.com/glauciabierwagen/udemy-50projects/blob/main/atom/readmeimage.png?raw=true" target="_blank">image</a> (CSS/HTML)  
- 
-- ### [Hamburger Menu](https://github.com/glauciabierwagen/udemy-50projects/tree/main/hamburger-menu2) /  <a href="https://github.com/glauciabierwagen/udemy-50projects/blob/main/hamburger-menu2/images/readmeimage.png?raw=true" target="_blank">image</a> (CSS/HTML/JavaScript) 
+### Card 3D Effects
+[Project folder](https://github.com/glauciabierwagen/udemy-50projects/tree/main/card-3d-effects)  
+![Card 3D Effects](https://user-images.githubusercontent.com/98116061/183831127-4eee239c-07a7-4785-99f0-5497d8070ac8.png)
 
-- ### [Sidebar Menu](https://github.com/glauciabierwagen/udemy-50projects/tree/main/sidebar-menu) /  <a href="https://github.com/glauciabierwagen/udemy-50projects/blob/main/sidebar-menu/images/readmeimage.png?raw=true" target="_blank">image</a> (CSS/HTML/JavaScript) 
+### Helicopter
+[Project folder](https://github.com/glauciabierwagen/udemy-50projects/tree/main/helicopter)  
+![Helicopter](helicopter/images/readmeimage.png)
 
-- ### [Flower Main](https://github.com/glauciabierwagen/udemy-50projects/tree/main/flower-main) /  <a href="https://github.com/glauciabierwagen/udemy-50projects/blob/main/flower-main/readmeimage.png?raw=true" target="_blank">image</a> (CSS/HTML)
-  
-- ### [Rounded Navbar](https://github.com/glauciabierwagen/udemy-50projects/tree/main/rounded-navbar) /  <a href="https://github.com/glauciabierwagen/udemy-50projects/blob/main/rounded-navbar/image.png?raw=true" target="_blank">image</a> (CSS/HTML/JavaScript)
-  
-- ### [Jumping Square](https://github.com/glauciabierwagen/udemy-50projects/tree/main/jumping-squaren) /  <a href="https://github.com/glauciabierwagen/udemy-50projects/blob/main/jumping-squaren/readmeimage.png?raw=true" target="_blank">image</a> (CSS/HTML/JavaScript)
-  
-- ### [Invisible Card](https://github.com/glauciabierwagen/udemy-50projects/tree/main/invisible-card) /  <a href="https://github.com/glauciabierwagen/udemy-50projects/blob/main/invisible-card/readmeimage.png?raw=true" target="_blank">image</a> (CSS/HTML/JavaScript)
+### Business Card
+[Project folder](https://github.com/glauciabierwagen/udemy-50projects/tree/main/business-card)  
+![Business Card](business-card/images/readmeimage.png)
 
+### Button Radio Custom
+[Project folder](https://github.com/glauciabierwagen/udemy-50projects/tree/main/button-radio-custom)  
+![Button Radio Custom](button-radio-custom/images/readmeimage.png)
 
+### Slideshow
+[Project folder](https://github.com/glauciabierwagen/udemy-50projects/tree/main/slideshow)  
+![Slideshow](slideshow/images/readmeimage.png)
 
+### Atom
+[Project folder](https://github.com/glauciabierwagen/udemy-50projects/tree/main/atom)  
+![Atom](atom/readmeimage.png)
 
+### Hamburger Menu 2
+[Project folder](https://github.com/glauciabierwagen/udemy-50projects/tree/main/hamburger-menu2)  
+![Hamburger Menu 2](hamburger-menu2/images/readmeimage.png)
 
+### Sidebar Menu
+[Project folder](https://github.com/glauciabierwagen/udemy-50projects/tree/main/sidebar-menu)  
+![Sidebar Menu](sidebar-menu/images/readmeimage.png)
 
+### Flower Main
+[Project folder](https://github.com/glauciabierwagen/udemy-50projects/tree/main/flower-main)  
+![Flower Main](flower-main/readmeimage.png)
 
+### Rounded Navbar
+[Project folder](https://github.com/glauciabierwagen/udemy-50projects/tree/main/rounded-navbar)  
+![Rounded Navbar](rounded-navbar/image.png)
 
+### Jumping Square
+[Project folder](https://github.com/glauciabierwagen/udemy-50projects/tree/main/jumping-squaren)  
+![Jumping Square](jumping-squaren/readmeimage.png)
 
-
+### Invisible Card
+[Project folder](https://github.com/glauciabierwagen/udemy-50projects/tree/main/invisible-card)  
+![Invisible Card](invisible-card/readmeimage.png)
