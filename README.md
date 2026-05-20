@@ -111,3 +111,7 @@ A collection of projects built with **HTML, CSS and JavaScript** during a code-a
 ### Invisible Card
 [Project folder](https://github.com/glauciabierwagen/udemy-50projects/tree/main/invisible-card)  
 <img src="invisible-card/readmeimage.png" alt="Invisible Card" width="50%">
+
+### Sign Up Form
+[Project folder](https://github.com/glauciabierwagen/udemy-50projects/tree/main/sign-up-form-2)  
+<img src="sign-up-form-2/readmeimage.png" alt="Invisible Card" width="50%">
