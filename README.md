@@ -114,4 +114,4 @@ A collection of projects built with **HTML, CSS and JavaScript** during a code-a
 
 ### Sign Up Form
 [Project folder](https://github.com/glauciabierwagen/udemy-50projects/tree/main/sign-up-form-2)  
-<img src="sign-up-form-2/readmeimage.png" alt="Sign Up Form" width="50%">
+<img src="sign-up-form-2/images/readmeimage.png" alt="Sign Up Form" width="50%">
