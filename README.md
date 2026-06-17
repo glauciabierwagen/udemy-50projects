@@ -117,5 +117,5 @@ A collection of projects built with **HTML, CSS and JavaScript** during a code-a
 <img src="sign-up-form-2/images/readmeimage.png" alt="Sign Up Form" width="50%">
 
 ### Profile Card
-[Project folder](https://github.com/glauciabierwagen/udemy-50projects/tree/main/sign-up-form-2)  
-<img src="sign-up-form-2/images/readmeimage.png" alt="Sign Up Form" width="50%">
+[Project folder](https://github.com/glauciabierwagen/udemy-50projects/tree/main/profile-cards)  
+<img src="profile-cards/readmeimage.png" alt="Profile Cards" width="50%">
