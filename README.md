@@ -119,3 +119,11 @@ A collection of projects built with **HTML, CSS and JavaScript** during a code-a
 ### Profile Card
 [Project folder](https://github.com/glauciabierwagen/udemy-50projects/tree/main/profile-cards)  
 <img src="profile-cards/readmeimage.png" alt="Profile Cards" width="50%">
+
+### Slide Show
+[Project folder](https://github.com/glauciabierwagen/udemy-50projects/tree/main/slideshow2)  
+<img src="slideshow2/images/readmeimage.png" alt="Slide Show" width="50%">
+
+### Social Media Icons Slideshow
+[Project folder](https://github.com/glauciabierwagen/udemy-50projects/tree/main/social-media-icons-slideshow)  
+<img src="social-media-icons-slideshow/images/slideshow-img-1.png" alt="Social Media Icons Slideshow" width="50%">
