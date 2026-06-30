@@ -78,7 +78,7 @@ A collection of projects built with **HTML, CSS and JavaScript** during a code-a
 
 ### Button Radio Custom
 [Project folder](https://github.com/glauciabierwagen/udemy-50projects/tree/main/button-radio-custom)  
-<img src="button-radio-custom/images/readmeimage.png" alt="Button Radio Custom" width="50%">
+<img src="button-radio-custom/readmeimage.png" alt="Button Radio Custom" width="50%">
 
 ### Slideshow
 [Project folder](https://github.com/glauciabierwagen/udemy-50projects/tree/main/slideshow)  
@@ -127,3 +127,44 @@ A collection of projects built with **HTML, CSS and JavaScript** during a code-a
 ### Social Media Icons Slideshow
 [Project folder](https://github.com/glauciabierwagen/udemy-50projects/tree/main/social-media-icons-slideshow)  
 <img src="social-media-icons-slideshow/images/slideshow-img-1.png" alt="Social Media Icons Slideshow" width="50%">
+
+### Hamburger Menu and Social Media 
+[Project folder](https://github.com/glauciabierwagen/udemy-50projects/tree/main/hamburger-menu3)  
+<img src="hamburger-menu3/images/readmeimage.png" alt="Hamburger Menu and Social Media Icons Slideshow" width="50%">
+
+### Portfolio
+[Project folder](https://github.com/glauciabierwagen/udemy-50projects/tree/main/portfolio-glaucia-silva)  
+<img src="portfolio-glaucia-silva/images/readmeimage.png" alt="Portfolio" width="50%">
+
+### Boxes
+[Project folder](https://github.com/glauciabierwagen/udemy-50projects/tree/main/boxes-main)  
+
+### Ball Animation
+[Project folder](https://github.com/glauciabierwagen/udemy-50projects/tree/main/ball-Anim)  
+<img src="ball-Anim/images/bg.png" alt="Ball Animation" width="50%">
+
+### Circle Progress Bar
+[Project folder](https://github.com/glauciabierwagen/udemy-50projects/tree/main/circle-progress-bar)  
+
+### Clock
+[Project folder](https://github.com/glauciabierwagen/udemy-50projects/tree/main/clock)  
+
+### Creative Button
+[Project folder](https://github.com/glauciabierwagen/udemy-50projects/tree/main/creative-button)  
+
+### Dropdown Menu
+[Project folder](https://github.com/glauciabierwagen/udemy-50projects/tree/main/dropdown-menu)  
+<img src="dropdown-menu/images/bg.jpg" alt="Dropdown Menu" width="50%">
+
+### Landing Page Animation
+[Project folder](https://github.com/glauciabierwagen/udemy-50projects/tree/main/landing-page-animation)  
+<img src="landing-page-animation/images/bg.jpg" alt="Landing Page Animation" width="50%">
+
+### Navbar
+[Project folder](https://github.com/glauciabierwagen/udemy-50projects/tree/main/navbar)  
+
+### Ripple Button
+[Project folder](https://github.com/glauciabierwagen/udemy-50projects/tree/main/ripple-button)  
+
+### Sign In / Sign Up Forms
+[Project folder](https://github.com/glauciabierwagen/udemy-50projects/tree/main/sign-In-sign-up-forms)
